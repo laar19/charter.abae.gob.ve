@@ -13,7 +13,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                         <li>
-                            <center><img src="/assets/img/abae-charter3-otra.png"></center>
+                            <center><img src="{{ asset('/assets/img/abae-charter3-otra.png') }}"></center>
                         </li>
                     
                         <li>
