@@ -75,8 +75,8 @@ class DatasController extends Controller
         }
         $carpeta_subida = $ruta.$date."-".$nombre;
         
-        $this->copia_archivo($carpeta_subida, $nombre, $date, $imagen_icon, "icon");
-        $this->copia_archivo($carpeta_subida, $nombre, $date, $imagen_preview, "preview");
+        $this->copia_archivo($carpeta_subida, $nombre, $date, $imagen_icon, "icon.jpg");
+        $this->copia_archivo($carpeta_subida, $nombre, $date, $imagen_preview, "preview.jpg");
         
         $arr = array(
             'folder_name'  => $date."-".$nombre,
