@@ -69,8 +69,18 @@ class UserController extends Controller
             'role'      => $request->role
         );
         
-        User::create($array);
-        return redirect()->back()->with('success', 'Datos guardados correctamente');
+        
+        try {
+            User::create($array);
+            return redirect()->back()->with('success', 'Datos guardados correctamente');
+        }
+        catch(\Illuminate\Database\QueryException $e) {
+            $errorCode = $e->errorInfo[1];
+            
+            if($errorCode == '7') {
+                return back()->with('error', 'El correo ya existe');
+            }
+        }
     }
 
     /**

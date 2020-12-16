@@ -27,7 +27,7 @@ class LoginController extends Controller
             return redirect()->route('successlogin');
         }
         else {
-            return back()->with('error', 'Wrong Login Details');
+            return back()->with('error', 'Usuario o contraseña incorrectos');
         }
     }
 

@@ -9,6 +9,7 @@
                 <div class="row">
                     <div class="col-md-offset-4 col-md-5">
                         <div class="form-login">
+                            
                             <form method="post" action="{{ route('user.store') }}">
                                 
                                 {!! csrf_field() !!}
@@ -75,17 +76,19 @@
                                     </div>
                                 </table><br>
                                 <input class="btn btn-info btn-md" id="crear_usuario" type="submit" value="Aceptar"/>
-                                
-                                @if(session('success'))
-                                    <div class="alert alert-success">
-                                        {{ session('success') }}
-                                    </div>
-                                @elseif(session()->has('error'))
-                                    <div class="alert alert-danger">
-                                        {{ session()->get('error') }}
-                                    </div>
-                                @endif
                             </form>
+                            
+                            <br>
+                            @if(session('success'))
+                                <div class="alert alert-success">
+                                    {{ session('success') }}
+                                </div>
+                            @elseif(session()->has('error'))
+                                <div class="alert alert-danger">
+                                    {{ session()->get('error') }}
+                                </div>
+                            @endif
+                            
                         </div>
                     </div>
                 </div>
