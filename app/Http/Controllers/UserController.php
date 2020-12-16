@@ -68,8 +68,7 @@ class UserController extends Controller
             'password'  => bcrypt($request->password),
             'role'      => $request->role
         );
-        
-        
+                
         try {
             User::create($array);
             return redirect()->back()->with('success', 'Datos guardados correctamente');
