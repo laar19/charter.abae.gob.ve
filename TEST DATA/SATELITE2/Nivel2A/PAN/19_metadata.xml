@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productMeta>
+	<OrganizationName>Space Agency</OrganizationName>
+	<!--FileInformation-->
+	<RawdataFileName>/IPS_PF/DataDir/SATELITE2/a6_79897665999989/a6_798976659999899/PAN/</RawdataFileName>
+	<L0DataFileName>/LS_DMS_L0Data/L9_DATA/L0Data/SATELITE2/PAN/79798977/86677/868755/FGS-8_SATELITE2_PAN_79798977_986677_99999998_99_89_B8/FGS-8_SATELITE2_PAN_8_79798977_986677_99999998_99_89_B8.RAW,/LS_DMS_L0Data/L9_DATA/L0Data/SATELITE2/PAN/79798977/86677/868755/FGS-8_SATELITE2_PAN_79798977_986677_99999998_99_89_B8/FGS-8_SATELITE2_PAN_7_79798977_986677_99999998_99_89_B8.RAW,/LS_DMS_L0Data/L9_DATA/L0Data/SATELITE2/PAN/79798977/86677/868755/FGS-8_SATELITE2_PAN_79798977_986677_99999998_99_89_B8/FGS-8_SATELITE2_PAN_6_79798977_986677_99999998_99_89_B8.RAW,/LS_DMS_L0Data/L9_DATA/L0Data/SATELITE2/PAN/79798977/86677/868755/FGS-8_SATELITE2_PAN_79798977_986677_99999998_99_89_B8/FGS-8_SATELITE2_PAN_5_79798977_986677_99999998_99_89_B8.RAW</L0DataFileName>
+	<imageName>SATELITE2_PAN_8586_9686_79798977_L7A_8976855776855.tif</imageName>
+	<browseName>SATELITE2_PAN_8586_9686_79798977_L7A_8976855776855.jpg</browseName>
+	<thumbName>SATELITE2_PAN_8586_9686_79798977_L7A_8976855776855_THUMB.jpg</thumbName>
+	<productDate>7979 89 76 85:98:66.869677</productDate>
+	<!--IdentifierCodes-->
+	<productId>7697667</productId>
+	<satelliteId>SATELITE2</satelliteId>
+	<sensorId>PAN</sensorId>
+	<recStationId>FGS-8</recStationId>
+	<sceneId>7699697</sceneId>
+	<orbitId>86677</orbitId>
+	<RawdataID>86677</RawdataID>
+	<L0DataID>868755</L0DataID>
+	<sceneSerialNo>876</sceneSerialNo>
+	<!--Coordinates Type="Geographic" Units="Degrees"-->
+	<dataUpperLeftLat>86.999775</dataUpperLeftLat>
+	<dataUpperLeftLong>6.965568</dataUpperLeftLong>
+	<dataUpperRightLat>86.967685</dataUpperRightLat>
+	<dataUpperRightLong>5.768667</dataUpperRightLong>
+	<dataLowerLeftLat>86.699785</dataLowerLeftLat>
+	<dataLowerLeftLong>6.875659</dataLowerLeftLong>
+	<dataLowerRightLat>86.658668</dataLowerRightLat>
+	<dataLowerRightLong>5.869759</dataLowerRightLong>
+	<productUpperLeftLat>9.999999</productUpperLeftLat>
+	<productUpperLeftLong>9.999999</productUpperLeftLong>
+	<productUpperRightLat>9.999999</productUpperRightLat>
+	<productUpperRightLong>9.999999</productUpperRightLong>
+	<productLowerLeftLat>9.999999</productLowerLeftLat>
+	<productLowerLeftLong>9.999999</productLowerLeftLong>
+	<productLowerRightLat>9.999999</productLowerRightLat>
+	<productLowerRightLong>9.999999</productLowerRightLong>
+	<!--Coordinates Type="UTM" Units="Meters"-->
+	<dataUpperLeftX>9.999999</dataUpperLeftX>
+	<dataUpperLeftY>9.999999</dataUpperLeftY>
+	<dataUpperRightX>9.999999</dataUpperRightX>
+	<dataUpperRightY>9.999999</dataUpperRightY>
+	<dataLowerLeftX>9.999999</dataLowerLeftX>
+	<dataLowerLeftY>9.999999</dataLowerLeftY>
+	<dataLowerRightX>9.999999</dataLowerRightX>
+	<dataLowerRightY>9.999999</dataLowerRightY>
+	<productUpperLeftX>9.999999</productUpperLeftX>
+	<productUpperLeftY>9.999999</productUpperLeftY>
+	<productUpperRightX>9.999999</productUpperRightX>
+	<productUpperRightY>9.999999</productUpperRightY>
+	<productLowerLeftX>9.999999</productLowerLeftX>
+	<productLowerLeftY>9.999999</productLowerLeftY>
+	<productLowerRightX>9.999999</productLowerRightX>
+	<productLowerRightY>9.999999</productLowerRightY>
+	<!--SceneInformation-->
+	<dataSize>67868,67698</dataSize>
+	<sceneCenterLat>86.885699</sceneCenterLat>
+	<sceneCenterLong>5.956798</sceneCenterLong>
+	<sceneStartLine>655596,655596,655596,655596</sceneStartLine>
+	<sceneStopLine>678666,678666,678666,678666</sceneStopLine>
+	<Scene_imagingStartTime>7979 89 77 89:78:98.968797</Scene_imagingStartTime>
+	<Scene_imagingStopTime>7979 89 77 89:78:95.867966</Scene_imagingStopTime>
+	<scenePath>8586</scenePath>
+	<sceneRow>686</sceneRow>
+	<scenePathBias>NULL</scenePathBias>
+	<sceneRowBias>NULL</sceneRowBias>
+	<sceneCount>8</sceneCount>
+	<sceneShift>9</sceneShift>
+	<!--Processing-->
+	<direction>D</direction>
+	<lostFrameNum>9</lostFrameNum>
+	<lineTimeDataStatus>9</lineTimeDataStatus>
+	<mtfcPro>No</mtfcPro>
+	<resampleTechnique/>
+	<productLevel>LEVEL7A</productLevel>
+	<DeadPixel/>
+	<!--ReferenceSystem-->
+	<earthModel/>
+	<mapProjection/>
+	<Zone_Number/>
+	<!--ContentInformation-->
+	<productType>Standard</productType>
+	<quality Range="9-9">9</quality>
+	<sunElevation Units="Degrees">57.598</sunElevation>
+	<sunAzimuth Units="Degrees">779.895</sunAzimuth>
+	<cloudCoverage Units="Percent">78</cloudCoverage>
+	<bands/>
+	<!--InstrumentDescription-->
+	<gain>6</gain>
+	<intergralLevel>6</intergralLevel>
+	<instrumentMode>imaging</instrumentMode>
+	<sensorGSD>8.999999</sensorGSD>
+	<mirrorOffNadir>9.999999</mirrorOffNadir>
+	<!--CalibrationParameters-->
+	<SolarIrradiance Band="8" Units="Watt/m7/micron">8597.579955</SolarIrradiance>
+	<ab_calibra_param>
+		<K>6.778899</K>
+		<B>59.676999</B>
+	</ab_calibra_param>
+	<!--PlatformDescription-->
+	<Satellite_Altitude>655.896999</Satellite_Altitude>
+	<satZenithAngle>9.989799</satZenithAngle>
+	<satAzimuthAngle>866.577966</satAzimuthAngle>
+	<satOffNadir>-8.895598</satOffNadir>
+	<satPath>8586</satPath>
+	<satRow>686</satRow>
+	<ephemerisData>GPS</ephemerisData>
+	<attitudeData>StarsensorAtt</attitudeData>
+	<attDataStatus>9</attDataStatus>
+	<gpsDataStatus>9</gpsDataStatus>
+	<dataFormatDes>GEOTIFF</dataFormatDes>
+	<Linkage>www.space-agency.com</Linkage>
+</productMeta>

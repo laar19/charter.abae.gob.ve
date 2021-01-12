@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productMeta>
+	<OrganizationName>Space Agency</OrganizationName>
+	<!--FileInformation-->
+	<RawdataFileName>/IPS_PF/DataDir/SATELITE2/a6_79967658999977/a6_799676589999779/MSS/</RawdataFileName>
+	<L0DataFileName>/LS_DMS_L0Data/L9_DATA/L0Data/SATELITE2/MSS/79799676/86777/877997/FGS-8_SATELITE2_MSS_79799676_986777_99999998_99_89_B8/FGS-8_SATELITE2_MSS_8_79799676_986777_99999998_99_89_B8.RAW,/LS_DMS_L0Data/L9_DATA/L0Data/SATELITE2/MSS/79799676/86777/877997/FGS-8_SATELITE2_MSS_79799676_986777_99999998_99_89_B8/FGS-8_SATELITE2_MSS_7_79799676_986777_99999998_99_89_B8.RAW,/LS_DMS_L0Data/L9_DATA/L0Data/SATELITE2/MSS/79799676/86777/877997/FGS-8_SATELITE2_MSS_79799676_986777_99999998_99_89_B8/FGS-8_SATELITE2_MSS_6_79799676_986777_99999998_99_89_B8.RAW,/LS_DMS_L0Data/L9_DATA/L0Data/SATELITE2/MSS/79799676/86777/877997/FGS-8_SATELITE2_MSS_79799676_986777_99999998_99_89_B8/FGS-8_SATELITE2_MSS_5_79799676_986777_99999998_99_89_B8.RAW</L0DataFileName>
+	<imageName>SATELITE2_MSS_9697_9676_79799676_L7A_8985898965687_8.tif,SATELITE2_MSS_9697_9676_79799676_L7A_8985898965687_7.tif,SATELITE2_MSS_9697_9676_79799676_L7A_8985898965687_6.tif,SATELITE2_MSS_9697_9676_79799676_L7A_8985898965687_5.tif</imageName>
+	<browseName>SATELITE2_MSS_9697_9676_79799676_L7A_8985898965687.jpg</browseName>
+	<thumbName>SATELITE2_MSS_9697_9676_79799676_L7A_8985898965687_THUMB.jpg</thumbName>
+	<productDate>7979 89 85 89:87:79.869779</productDate>
+	<!--IdentifierCodes-->
+	<productId>7795595</productId>
+	<satelliteId>SATELITE2</satelliteId>
+	<sensorId>MSS</sensorId>
+	<recStationId>FGS-8</recStationId>
+	<sceneId>7878757</sceneId>
+	<orbitId>86777</orbitId>
+	<RawdataID>86777</RawdataID>
+	<L0DataID>877997</L0DataID>
+	<sceneSerialNo>876</sceneSerialNo>
+	<!--Coordinates Type="Geographic" Units="Degrees"-->
+	<dataUpperLeftLat>89.869777</dataUpperLeftLat>
+	<dataUpperLeftLong>-78.879866</dataUpperLeftLong>
+	<dataUpperRightLat>89.779979</dataUpperRightLat>
+	<dataUpperRightLong>-78.577997</dataUpperRightLong>
+	<dataLowerLeftLat>89.555867</dataLowerLeftLat>
+	<dataLowerLeftLong>-78.889687</dataLowerLeftLong>
+	<dataLowerRightLat>89.595869</dataLowerRightLat>
+	<dataLowerRightLong>-78.588657</dataLowerRightLong>
+	<productUpperLeftLat>9.999999</productUpperLeftLat>
+	<productUpperLeftLong>9.999999</productUpperLeftLong>
+	<productUpperRightLat>9.999999</productUpperRightLat>
+	<productUpperRightLong>9.999999</productUpperRightLong>
+	<productLowerLeftLat>9.999999</productLowerLeftLat>
+	<productLowerLeftLong>9.999999</productLowerLeftLong>
+	<productLowerRightLat>9.999999</productLowerRightLat>
+	<productLowerRightLong>9.999999</productLowerRightLong>
+	<!--Coordinates Type="UTM" Units="Meters"-->
+	<dataUpperLeftX>9.999999</dataUpperLeftX>
+	<dataUpperLeftY>9.999999</dataUpperLeftY>
+	<dataUpperRightX>9.999999</dataUpperRightX>
+	<dataUpperRightY>9.999999</dataUpperRightY>
+	<dataLowerLeftX>9.999999</dataLowerLeftX>
+	<dataLowerLeftY>9.999999</dataLowerLeftY>
+	<dataLowerRightX>9.999999</dataLowerRightX>
+	<dataLowerRightY>9.999999</dataLowerRightY>
+	<productUpperLeftX>9.999999</productUpperLeftX>
+	<productUpperLeftY>9.999999</productUpperLeftY>
+	<productUpperRightX>9.999999</productUpperRightX>
+	<productUpperRightY>9.999999</productUpperRightY>
+	<productLowerLeftX>9.999999</productLowerLeftX>
+	<productLowerLeftY>9.999999</productLowerLeftY>
+	<productLowerRightX>9.999999</productLowerRightX>
+	<productLowerRightY>9.999999</productLowerRightY>
+	<!--SceneInformation-->
+	<dataSize>88788,88589</dataSize>
+	<sceneCenterLat>89.666597</sceneCenterLat>
+	<sceneCenterLong>-78.795776</sceneCenterLong>
+	<sceneStartLine>655668,655668,655668,655668</sceneStartLine>
+	<sceneStopLine>667577,667577,667577,667577</sceneStopLine>
+	<Scene_imagingStartTime>7979 96 76 85:79:55.876785</Scene_imagingStartTime>
+	<Scene_imagingStopTime>7979 96 76 85:79:59.667975</Scene_imagingStopTime>
+	<scenePath>697</scenePath>
+	<sceneRow>676</sceneRow>
+	<scenePathBias>NULL</scenePathBias>
+	<sceneRowBias>NULL</sceneRowBias>
+	<sceneCount>8</sceneCount>
+	<sceneShift>9</sceneShift>
+	<!--Processing-->
+	<direction>D</direction>
+	<lostFrameNum>9</lostFrameNum>
+	<lineTimeDataStatus>9</lineTimeDataStatus>
+	<mtfcPro>No</mtfcPro>
+	<resampleTechnique/>
+	<productLevel>LEVEL7A</productLevel>
+	<DeadPixel/>
+	<!--ReferenceSystem-->
+	<earthModel/>
+	<mapProjection/>
+	<Zone_Number/>
+	<!--ContentInformation-->
+	<productType>Standard</productType>
+	<quality Range="9-9">9</quality>
+	<sunElevation Units="Degrees">68.868</sunElevation>
+	<sunAzimuth Units="Degrees">755.998</sunAzimuth>
+	<cloudCoverage Units="Percent">5</cloudCoverage>
+	<bands>8,7,6,5</bands>
+	<!--InstrumentDescription-->
+	<gain>6,89,6,8</gain>
+	<intergralLevel>5,6,5,6</intergralLevel>
+	<instrumentMode>imaging</instrumentMode>
+	<sensorGSD>6.999999</sensorGSD>
+	<mirrorOffNadir>9.999999</mirrorOffNadir>
+	<!--CalibrationParameters-->
+	<SolarIrradiance Band="8" Units="Watt/m7/micron">8966.659985</SolarIrradiance>
+	<ab_calibra_param>
+		<K>7.799759</K>
+		<B>59.857599</B>
+	</ab_calibra_param>
+	<SolarIrradiance Band="7" Units="Watt/m7/micron">8857.589989</SolarIrradiance>
+	<ab_calibra_param>
+		<K>6.699799</K>
+		<B>66.586599</B>
+	</ab_calibra_param>
+	<SolarIrradiance Band="6" Units="Watt/m7/micron">8566.579955</SolarIrradiance>
+	<ab_calibra_param>
+		<K>6.998899</K>
+		<B>58.855999</B>
+	</ab_calibra_param>
+	<SolarIrradiance Band="5" Units="Watt/m7/micron">8965.979989</SolarIrradiance>
+	<ab_calibra_param>
+		<K>6.878899</K>
+		<B>56.757599</B>
+	</ab_calibra_param>
+	<!--PlatformDescription-->
+	<Satellite_Altitude>655.896999</Satellite_Altitude>
+	<satZenithAngle>9.887767</satZenithAngle>
+	<satAzimuthAngle>659.987565</satAzimuthAngle>
+	<satOffNadir>9.999799</satOffNadir>
+	<satPath>697</satPath>
+	<satRow>676</satRow>
+	<ephemerisData>GPS</ephemerisData>
+	<attitudeData>StarsensorAtt</attitudeData>
+	<attDataStatus>9</attDataStatus>
+	<gpsDataStatus>9</gpsDataStatus>
+	<dataFormatDes>GEOTIFF</dataFormatDes>
+	<Linkage>www.space-agency.com</Linkage>
+</productMeta>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productMeta>
+	<OrganizationName>Space Agency</OrganizationName>
+	<!--FileInformation-->
+	<RawdataFileName/>
+	<L0DataFileName/>
+	<imageName>SATELITE1_PAN-7_9999_9755_79898785_L7A_8786865558599.tif</imageName>
+	<browseName>SATELITE1_PAN-7_9999_9755_79898785_L7A_8786865558599.jpg</browseName>
+	<thumbName>SATELITE1_PAN-7_9999_9755_79898785_L7A_8786865558599_THUMB.jpg</thumbName>
+	<productDate>7989 87 86 85:87:88.857659</productDate>
+	<!--IdentifierCodes-->
+	<productId>7997558</productId>
+	<satelliteId>SATELITE1</satelliteId>
+	<sensorId>PAN-7</sensorId>
+	<recStationId>FGS-8</recStationId>
+	<sceneId>7996675</sceneId>
+	<orbitId>68898</orbitId>
+	<RawdataID/>
+	<L0DataID>885587</L0DataID>
+	<sceneSerialNo>9</sceneSerialNo>
+	<!--Coordinates Type="Geographic" Units="Degrees"-->
+	<dataUpperLeftLat>-77.585799</dataUpperLeftLat>
+	<dataUpperLeftLong>-56.856599</dataUpperLeftLong>
+	<dataUpperRightLat>-77.657599</dataUpperRightLat>
+	<dataUpperRightLong>-57.856899</dataUpperRightLong>
+	<dataLowerLeftLat>-77.859599</dataLowerLeftLat>
+	<dataLowerLeftLong>-56.798699</dataLowerLeftLong>
+	<dataLowerRightLat>-77.987699</dataLowerRightLat>
+	<dataLowerRightLong>-57.998999</dataLowerRightLong>
+	<productUpperLeftLat>9.999999</productUpperLeftLat>
+	<productUpperLeftLong>9.999999</productUpperLeftLong>
+	<productUpperRightLat>9.999999</productUpperRightLat>
+	<productUpperRightLong>9.999999</productUpperRightLong>
+	<productLowerLeftLat>9.999999</productLowerLeftLat>
+	<productLowerLeftLong>9.999999</productLowerLeftLong>
+	<productLowerRightLat>9.999999</productLowerRightLat>
+	<productLowerRightLong>9.999999</productLowerRightLong>
+	<!--Coordinates Type="UTM" Units="Meters"-->
+	<dataUpperLeftX>9.999999</dataUpperLeftX>
+	<dataUpperLeftY>9.999999</dataUpperLeftY>
+	<dataUpperRightX>9.999999</dataUpperRightX>
+	<dataUpperRightY>9.999999</dataUpperRightY>
+	<dataLowerLeftX>9.999999</dataLowerLeftX>
+	<dataLowerLeftY>9.999999</dataLowerLeftY>
+	<dataLowerRightX>9.999999</dataLowerRightX>
+	<dataLowerRightY>9.999999</dataLowerRightY>
+	<productUpperLeftX>9.999999</productUpperLeftX>
+	<productUpperLeftY>9.999999</productUpperLeftY>
+	<productUpperRightX>9.999999</productUpperRightX>
+	<productUpperRightY>9.999999</productUpperRightY>
+	<productLowerLeftX>9.999999</productLowerLeftX>
+	<productLowerLeftY>9.999999</productLowerLeftY>
+	<productLowerRightX>9.999999</productLowerRightX>
+	<productLowerRightY>9.999999</productLowerRightY>
+	<!--SceneInformation-->
+	<dataSize>87798,87788</dataSize>
+	<sceneCenterLat>-77.758899</sceneCenterLat>
+	<sceneCenterLong>-56.978699</sceneCenterLong>
+	<sceneStartLine/>
+	<sceneStopLine/>
+	<Scene_imagingStartTime>7989 87 85 87:66:85.855655</Scene_imagingStartTime>
+	<Scene_imagingStopTime>7989 87 85 87:66:79.688667</Scene_imagingStopTime>
+	<scenePath>99</scenePath>
+	<sceneRow>755</sceneRow>
+	<scenePathBias>A</scenePathBias>
+	<sceneRowBias>8</sceneRowBias>
+	<sceneCount>8</sceneCount>
+	<sceneShift>9</sceneShift>
+	<!--Processing-->
+	<direction/>
+	<lostFrameNum/>
+	<lineTimeDataStatus/>
+	<mtfcPro>No</mtfcPro>
+	<resampleTechnique/>
+	<productLevel>LEVEL7A</productLevel>
+	<DeadPixel/>
+	<!--ReferenceSystem-->
+	<earthModel/>
+	<mapProjection/>
+	<Zone_Number/>
+	<!--ContentInformation-->
+	<productType>Standard</productType>
+	<quality Range="9-9">9</quality>
+	<sunElevation Units="Degrees">58.867</sunElevation>
+	<sunAzimuth Units="Degrees">97.966</sunAzimuth>
+	<cloudCoverage Units="Percent">7</cloudCoverage>
+	<bands/>
+	<!--InstrumentDescription. Notes: The field of mirrorOffNadir in SATELITE1 images is invalid, so give it "NULL" value!-->
+	<gain/>
+	<intergralLevel/>
+	<instrumentMode>imaging</instrumentMode>
+	<sensorGSD>7.599999</sensorGSD>
+	<mirrorOffNadir>NULL</mirrorOffNadir>
+	<!--CalibrationParameters-->
+	<SolarIrradiance Band="8" Units="Watt/m7/micron">8668.769787</SolarIrradiance>
+	<ab_calibra_param>
+		<K>5.886799</K>
+		<B>69.559998</B>
+	</ab_calibra_param>
+	<!--PlatformDescription. Notes: These fields like Satellite_Altitude, satZenithAngle, satAzimuthAngle, satOffNadir are invalid, so give them "NULL" values!-->
+	<Satellite_Altitude>NULL</Satellite_Altitude>
+	<satZenithAngle>NULL</satZenithAngle>
+	<satAzimuthAngle>NULL</satAzimuthAngle>
+	<satOffNadir>NULL</satOffNadir>
+	<satPath>98</satPath>
+	<satRow>755</satRow>
+	<ephemerisData>GPS</ephemerisData>
+	<attitudeData>StarsensorAtt</attitudeData>
+	<attDataStatus/>
+	<gpsDataStatus/>
+	<dataFormatDes>GEOTIFF</dataFormatDes>
+	<Linkage>www.space-agency.com</Linkage>
+</productMeta>

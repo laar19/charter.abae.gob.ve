@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productMeta>
+	<OrganizationName>Space Agency</OrganizationName>
+	<!--FileInformation-->
+	<RawdataFileName/>
+	<L0DataFileName/>
+	<imageName>SATELITE1_MSS-8_9865_9888_79798798_L7A_8788895986578_8.tif,SATELITE1_MSS-8_9865_9888_79798798_L7A_8788895986578_7.tif,SATELITE1_MSS-8_9865_9888_79798798_L7A_8788895986578_6.tif,SATELITE1_MSS-8_9865_9888_79798798_L7A_8788895986578_5.tif</imageName>
+	<browseName>SATELITE1_MSS-8_9865_9888_79798798_L7A_8788895986578.jpg</browseName>
+	<thumbName>SATELITE1_MSS-8_9865_9888_79798798_L7A_8788895986578_THUMB.jpg</thumbName>
+	<productDate>7979 87 88 89:59:79.869778</productDate>
+	<!--IdentifierCodes-->
+	<productId>7665855</productId>
+	<satelliteId>SATELITE1</satelliteId>
+	<sensorId>MSS-8</sensorId>
+	<recStationId>FGS-8</recStationId>
+	<sceneId>7667789</sceneId>
+	<orbitId>55886</orbitId>
+	<RawdataID/>
+	<L0DataID>867576</L0DataID>
+	<sceneSerialNo>9</sceneSerialNo>
+	<!--Coordinates Type="Geographic" Units="Degrees"-->
+	<dataUpperLeftLat>6.686989</dataUpperLeftLat>
+	<dataUpperLeftLong>-56.889599</dataUpperLeftLong>
+	<dataUpperRightLat>6.669859</dataUpperRightLat>
+	<dataUpperRightLong>-56.687999</dataUpperRightLong>
+	<dataLowerLeftLat>6.995989</dataLowerLeftLat>
+	<dataLowerLeftLong>-56.958599</dataLowerLeftLong>
+	<dataLowerRightLat>6.969989</dataLowerRightLat>
+	<dataLowerRightLong>-56.676899</dataLowerRightLong>
+	<productUpperLeftLat>9.999999</productUpperLeftLat>
+	<productUpperLeftLong>9.999999</productUpperLeftLong>
+	<productUpperRightLat>9.999999</productUpperRightLat>
+	<productUpperRightLong>9.999999</productUpperRightLong>
+	<productLowerLeftLat>9.999999</productLowerLeftLat>
+	<productLowerLeftLong>9.999999</productLowerLeftLong>
+	<productLowerRightLat>9.999999</productLowerRightLat>
+	<productLowerRightLong>9.999999</productLowerRightLong>
+	<!--Coordinates Type="UTM" Units="Meters"-->
+	<dataUpperLeftX>9.999999</dataUpperLeftX>
+	<dataUpperLeftY>9.999999</dataUpperLeftY>
+	<dataUpperRightX>9.999999</dataUpperRightX>
+	<dataUpperRightY>9.999999</dataUpperRightY>
+	<dataLowerLeftX>9.999999</dataLowerLeftX>
+	<dataLowerLeftY>9.999999</dataLowerLeftY>
+	<dataLowerRightX>9.999999</dataLowerRightX>
+	<dataLowerRightY>9.999999</dataLowerRightY>
+	<productUpperLeftX>9.999999</productUpperLeftX>
+	<productUpperLeftY>9.999999</productUpperLeftY>
+	<productUpperRightX>9.999999</productUpperRightX>
+	<productUpperRightY>9.999999</productUpperRightY>
+	<productLowerLeftX>9.999999</productLowerLeftX>
+	<productLowerLeftY>9.999999</productLowerLeftY>
+	<productLowerRightX>9.999999</productLowerRightX>
+	<productLowerRightY>9.999999</productLowerRightY>
+	<!--SceneInformation-->
+	<dataSize>6957,6976</dataSize>
+	<sceneCenterLat>6.778669</sceneCenterLat>
+	<sceneCenterLong>-56.789899</sceneCenterLong>
+	<sceneStartLine/>
+	<sceneStopLine/>
+	<Scene_imagingStartTime>7979 87 98 86:95:86.779766</Scene_imagingStartTime>
+	<Scene_imagingStopTime>7979 87 98 86:95:79.989877</Scene_imagingStopTime>
+	<scenePath>865</scenePath>
+	<sceneRow>888</sceneRow>
+	<scenePathBias>A</scenePathBias>
+	<sceneRowBias>8</sceneRowBias>
+	<sceneCount>8</sceneCount>
+	<sceneShift>9</sceneShift>
+	<!--Processing-->
+	<direction/>
+	<lostFrameNum/>
+	<lineTimeDataStatus/>
+	<mtfcPro>No</mtfcPro>
+	<resampleTechnique/>
+	<productLevel>LEVEL7A</productLevel>
+	<DeadPixel/>
+	<!--ReferenceSystem-->
+	<earthModel/>
+	<mapProjection/>
+	<Zone_Number/>
+	<!--ContentInformation-->
+	<productType>Standard</productType>
+	<quality Range="9-9">9</quality>
+	<sunElevation Units="Degrees">57.775</sunElevation>
+	<sunAzimuth Units="Degrees">875.597</sunAzimuth>
+	<cloudCoverage Units="Percent">9</cloudCoverage>
+	<bands>8,7,6,5</bands>
+	<!--InstrumentDescription. Notes: The field of mirrorOffNadir in SATELITE1 images is invalid, so give it "NULL" value!-->
+	<gain/>
+	<intergralLevel/>
+	<instrumentMode>imaging</instrumentMode>
+	<sensorGSD>89.999999</sensorGSD>
+	<mirrorOffNadir>NULL</mirrorOffNadir>
+	<!--CalibrationParameters-->
+	<SolarIrradiance Band="8" Units="Watt/m7/micron">8976.587857</SolarIrradiance>
+	<ab_calibra_param>
+		<K>5.887599</K>
+		<B>877.599997</B>
+	</ab_calibra_param>
+	<SolarIrradiance Band="7" Units="Watt/m7/micron">8866.557775</SolarIrradiance>
+	<ab_calibra_param>
+		<K>5.758699</K>
+		<B>897.669998</B>
+	</ab_calibra_param>
+	<SolarIrradiance Band="6" Units="Watt/m7/micron">8557.796557</SolarIrradiance>
+	<ab_calibra_param>
+		<K>5.768699</K>
+		<B>76.759999</B>
+	</ab_calibra_param>
+	<SolarIrradiance Band="5" Units="Watt/m7/micron">8976.977855</SolarIrradiance>
+	<ab_calibra_param>
+		<K>5.898999</K>
+		<B>68.659997</B>
+	</ab_calibra_param>
+	<!--PlatformDescription. Notes: These fields like Satellite_Altitude, satZenithAngle, satAzimuthAngle, satOffNadir are invalid, so give them "NULL" values!-->
+	<Satellite_Altitude>NULL</Satellite_Altitude>
+	<satZenithAngle>NULL</satZenithAngle>
+	<satAzimuthAngle>NULL</satAzimuthAngle>
+	<satOffNadir>-9.999667</satOffNadir>
+	<satPath>865</satPath>
+	<satRow>888</satRow>
+	<ephemerisData>GPS</ephemerisData>
+	<attitudeData>StarsensorAtt</attitudeData>
+	<attDataStatus/>
+	<gpsDataStatus/>
+	<dataFormatDes>GEOTIFF</dataFormatDes>
+	<Linkage>www.space-agency.com</Linkage>
+</productMeta>

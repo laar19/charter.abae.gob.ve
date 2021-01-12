@@ -269,11 +269,11 @@ class DatasController extends Controller
             $productDates = $valor->getElementsByTagName( "productDate" );
             $productDate = $productDates->item(0)->nodeValue;
 
-            $imagingStartTimes = $valor->getElementsByTagName( "imagingStartTime" );
-            $imagingStartTime = $imagingStartTimes->item(0)->nodeValue;
+            $Scene_imagingStartTimes = $valor->getElementsByTagName( "Scene_imagingStartTime" );
+            $Scene_imagingStartTime = $Scene_imagingStartTimes->item(0)->nodeValue;
 
-            $imagingStopTimes = $valor->getElementsByTagName( "imagingStopTime" );
-            $imagingStopTime = $imagingStopTimes->item(0)->nodeValue;
+            $Scene_imagingStopTimes = $valor->getElementsByTagName( "Scene_imagingStopTime" );
+            $Scene_imagingStopTime = $Scene_imagingStopTimes->item(0)->nodeValue;
 
             $dataUpperLeftLats = $valor->getElementsByTagName( "dataUpperLeftLat" );
             $dataUpperLeftLat = $dataUpperLeftLats->item(0)->nodeValue;
@@ -300,12 +300,12 @@ class DatasController extends Controller
             $dataLowerRightLong = $dataLowerRightLongs->item(0)->nodeValue;
 
 
-            $timeinic  = $imagingStartTime = $imagingStartTimes->item(0)->nodeValue;
+            $timeinic  = $Scene_imagingStartTime = $Scene_imagingStartTimes->item(0)->nodeValue;
             $time_desglo = explode(" ", $timeinic);
             $resultados= $time_desglo[0] . "-" . $time_desglo[1] . "-" . $time_desglo[2]  . "T" . substr($time_desglo[3] , 0 , 12)  . "+0000" ;
 
 
-            $timefinal  = $imagingStopTime = $imagingStopTimes->item(0)->nodeValue;
+            $timefinal  = $Scene_imagingStopTime = $Scene_imagingStopTimes->item(0)->nodeValue;
             $time_desglo2 = explode(" ", $timefinal);
             $resultados2= $time_desglo2[0] . "-" . $time_desglo2[1] . "-" . $time_desglo2[2]  . "T" . substr($time_desglo2[3] , 0 , 12) . "+0000" ;
 
